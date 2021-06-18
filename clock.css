@@ -1,0 +1,38 @@
+.cirlce{
+    position: absolute;
+    top: 50px;
+    left: 450px;
+    transform: traslate(50px,-50px);
+    width:300px;
+      height:300px;
+    border: 30px solid blue;
+    border-radius: 800px;
+  }
+  .hour{
+    background colour:black;
+    height:125px;
+    border-right:5px solid black;
+    margin-top:30px;
+    margin-right:145px;
+  }
+  .min{
+    background colour:black;
+    height:3px;
+    width:150px;
+    border-right:120px solid black;
+    margin-top:0px;
+    margin-right:145px;
+  }
+  .sec{
+    background colour:black;
+    height:4px;
+    width:66px;
+    border-right:120px solid black;
+    margin-top:20px;
+    margin-right:px;
+    margin-left:64px;
+    transform: rotate(80deg);
+  }
+  
+  
+  
